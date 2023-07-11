@@ -1,4 +1,4 @@
-package seminar4;
+package org.seminar2;
 import java.util.Random;
 public class Main {
 
